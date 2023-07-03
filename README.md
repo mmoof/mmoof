@@ -1,16 +1,21 @@
-### Hi there 👋
+<details>
+    <summary>Coding 🪄</summary>
 
-<!--
-**mmoof/mmoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+import the_best as moof
 
-Here are some ideas to get you started:
+class Coding(moof):
+    def __init__(self):
+        super.__init__()
+    
+    def languages(self):
+        self.expert = "Python"
+        self.intermediate = ["c++", "js"]
+        self.beginner = "go"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def interests(self):
+        self.enviroment = "virmcloud" 
+        self.specialities = ["Botting", "Obfuscation", "Scraping"]     
+
+```
+</details>
